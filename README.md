@@ -1,4 +1,4 @@
-![alt text](./graphics/DDS-HASlibrary-logo.png "Space Security Challeng 2020 Logo")
+![Space Security Challeng 2020 Logo](./graphics/DDS-HASlibrary-logo.png "Space Security Challeng 2020 Logo")
 
 # SPACE SECURITY CHALLENGE 2020 HACK-A-SAT LIBRARY
 
@@ -54,4 +54,4 @@ Satellite, Junk, and Flare Tracking: https://www.satflare.com/home.asp
 - Daniel Allen (dan@dds.mil)
 - Nick Ashworth (nick.ashworth@dds.mil)
 
-![alt text](./graphics/DDShackasatlogobottom.png "Space Security Challeng 2020 Logo")
+![Space Security Challeng 2020 Footer Logo](./graphics/DDShackasatlogobottom.png "Space Security Challeng 2020 Logo")
