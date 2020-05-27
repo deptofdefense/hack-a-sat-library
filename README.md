@@ -2,7 +2,7 @@
 
 # HACK-A-SAT RESOURCE LIBRARY
 
-Defense Digital Service collection of Resources and information to help others learn SAT hacking. *Note: This is an evolving resource, so please [contribute](./HASlibrary-contribute-instrxns.md) with a pull request*
+A collection of Resources for budding SAT hackers (Satellites, not the test¯\_(ツ)_/¯). *Note: This is an evolving resource, so please [contribute](./HASlibrary-contribute-instrxns.md) with a pull request*
 
 ## BACKGROUND
  
