@@ -1,6 +1,6 @@
-![alt text](./graphics/DDS-HASlibrary-logo.png "Space Security Challeng 2020 Logo")
+![Space Security Challeng 2020 Header Logo](./graphics/DDS-HASlibrary-logo.png "Space Security Challeng 2020 Logo")
 
-# SPACE SECURITY CHALLENGE 2020 HACK-A-SAT LIBRARY
+# HACK-A-SAT RESOURCE LIBRARY
 
 Defense Digital Service collection of Resources and information to help others learn SAT hacking. *Note: This is an evolving resource, so please [contribute](./HASlibrary-contribute-instrxns.md) with a pull request*
 
@@ -29,20 +29,21 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 - **Presentation at RSA Conference 2019- Attack Vectors in Orbit:** The Need for IoT and Satellite Security by William J Malik, CISA: https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13692/MBS-W03-Attack-Vectors-in-Orbit-The-Need-for-IoT-and-Satellite-Security.pdf
 
 ### Books and White Papers
-- Fundamentals of Astrodynamics and Applications, Third Edition by David A. Vallado
-- Fundamentals of Spacecraft Attitude Determination and Control by F. Landis Markley, John L. Crassidis
-- Research Paper: MITIGATING CYBER SECURITY RISK IN SATELLITE GROUND SYSTEMS by Stephen F. Bichler, Maj, USAF: https://apps.dtic.mil/dtic/tr/fulltext/u2/1012754.pdf
-- Attack Vectors in Orbit: The Need for IoT and Satellite Security by William J Malik, CISA: https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13692/MBS-W03-Attack-Vectors-in-Orbit-The-Need-for-IoT-and-Satellite-Security.pdf
-- Satellite Hacking: A Guide for the Perplexed: http://www.international-relations.com/CM2012/Satellite-Hacking.pdf
-- Satellite Network Hacking & Security Analysis by Adam Ali.Zare Hudaib: https://www.cscjournals.org/manuscript/Journals/IJCSS/Volume10/Issue1/IJCSS-1200.pdf
-- Satellite Tool Kit Astronautics Primer by Jerry Jon Sellers Based on Understanding Space: An Introduction to Astronautics: http://lasp.colorado.edu/~lix/class/...stroprimer.pdf
-- NASA's Beginner's Guide to Rockets: https://www.grc.nasa.gov/www/k-12/rocket/bgmr.html
-- CubeSat 101: Basic Concepts and Processes for First-Time CubeSat Developers: https://www.nasa.gov/sites/default/f...at_101_508.pdf
-- Satellite Communications Payload and System: https://ieeexplore.ieee.org/book/6305387
-- Space Mission Engineering: The New SMAD http://www.sme-smad.com/
+- **About:** Fundamentals of Astrodynamics and Applications, Third Edition by David A. Vallado
+- **About:** Fundamentals of Spacecraft Attitude Determination and Control by F. Landis Markley, John L. Crassidis
+- **About:** Satellite Communications Payload and System (https://ieeexplore.ieee.org/book/6305387)
+- **How To:** Satellite Hacking: A Guide for the Perplexed: http://www.international-relations.com/CM2012/Satellite-Hacking.pdf
+- **How To:** Satellite Network Hacking & Security Analysis by Adam Ali.Zare Hudaib (https://www.cscjournals.org/manuscript/Journals/IJCSS/Volume10/Issue1/IJCSS-1200.pdf)
+- **How To:** Satellite Tool Kit Astronautics Primer by Jerry Jon Sellers Based on Understanding Space: An Introduction to Astronautics (http://lasp.colorado.edu/~lix/class/...stroprimer.pdf)
+- **How To:** NASA's Beginner's Guide to Rockets (https://www.grc.nasa.gov/www/k-12/rocket/bgmr.html)
+- **How To:** CubeSat 101: Basic Concepts and Processes for First-Time CubeSat Developers (https://www.nasa.gov/sites/default/f...at_101_508.pdf)
+- **How To:** Space Mission Engineering: The New SMAD (http://www.sme-smad.com/)
+- **Types of Risks and Attacks:** MITIGATING CYBER SECURITY RISK IN SATELLITE GROUND SYSTEMS by Stephen F. Bichler, Maj, USAF (https://apps.dtic.mil/dtic/tr/fulltext/u2/1012754.pdf)
+- **Types of Risks and Attacks:** Attack Vectors in Orbit: The Need for IoT and Satellite Security by William J Malik, CISA (https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13692/MBS-W03-Attack-Vectors-in-Orbit-The-Need-for-IoT-and-Satellite-Security.pdf)
+- **Types of Risks and Attacks:** Cybersecurity Principles for Space Systems by Gregory Falco (https://2ea998fc-9f95-482a-87f8-dd57460966a8.filesusr.com/ugd/e741d3_daa22cd1e5234b8f9139fa9c7406be29.pdf)
 
 ### Miscellaneous
-Satellite, Junk, and Flare Tracking: https://www.satflare.com/home.asp
+- Satellite, Junk, and Flare Tracking: https://www.satflare.com/home.asp
 
 ## CONTACTS
 ### Space and Satellite Security POCs
@@ -54,4 +55,4 @@ Satellite, Junk, and Flare Tracking: https://www.satflare.com/home.asp
 - Daniel Allen (dan@dds.mil)
 - Nick Ashworth (nick.ashworth@dds.mil)
 
-![alt text](./graphics/DDShackasatlogobottom.png "Space Security Challeng 2020 Logo")
+![Space Security Challeng 2020 Footer Logo](./graphics/DDShackasatlogobottom.png "Space Security Challeng 2020 Logo")

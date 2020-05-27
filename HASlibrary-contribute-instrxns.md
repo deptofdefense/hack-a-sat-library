@@ -1,4 +1,4 @@
-![alt text](https://github.com/deptofdefense/defcon28-sat/blob/master/graphics/DDS-HASlibrary-logo.png "Space Security Challeng 2020 Logo")
+![alt text](./graphics/DDS-HASlibrary-logo.png "Space Security Challeng 2020 Logo")
 # CONTRIBUTION GUIDELINES FOR THE SPACE SECURITY CHALLENGE 2020 HACK-A-SAT LIBRARY
 
 Defense Digital Service welcomes contributions to the How to Hack A SAT Library for the SPACE SECURITY CHALLENGE 2020 HACK-A-SAT. We will be accepting contributions via GitHub Pull Requests.
