@@ -1,4 +1,4 @@
-![Space Security Challeng 2020 Header Logo](./graphics/DDS-HASlibrary-logo.png "Space Security Challeng 2020 Logo")
+![Space Security Challeng 2020 Logo](./graphics/DDS-HASlibrary-logo.png "Space Security Challeng 2020 Logo")
 
 # HACK-A-SAT RESOURCE LIBRARY
 
