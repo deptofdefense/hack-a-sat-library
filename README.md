@@ -50,6 +50,7 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 ### Space and Satellite Security POCs
 - [Adam Ali Zare Hudaib](mailto:adamhudaib@gmail.com): Author of Satellite Network Hacking & Security Analysis
 - [William Akoto](mailto:william@willakoto.com): Author of Hackers could shut down satellites — or turn them into weapons
+- [Gregory Falco](mailto:falco@stanford.edu): Author of Cybersecurity Principles for Space Systems
 
 ### Defense Digital Service Library Custodians
 - Clair Koroma (clair@dds.mil)
