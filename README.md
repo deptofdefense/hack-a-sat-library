@@ -82,6 +82,18 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 - Recap of the team Exodus Orbitals Alliance (192 out of 1278 teams)
 https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 
+## Helpful programming libraries
+ 
+- CCSDSPy: Provides an IO Interface for reading CCSDS data in Python. The CCSDS format is used for many NASA and ESA missions for low-level telemetry (https://ccsdspy.readthedocs.io/en/latest/)
+- Satpy: Python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats (https://github.com/pytroll/satpy)
+- SGP4: Python version of the SGP4 satellite position library (https://github.com/brandon-rhodes/python-sgp4)
+- Poliastro: Collection of Python functions useful in Astrodynamics and Orbital Mechanics, focusing on interplanetary applications. It provides a simple and intuitive API and handles physical quantities with units (https://docs.poliastro.space/en/stable/)
+- Skyfield: Computes positions for the stars, planets, and satellites in orbit around the Earth (https://rhodesmill.org/skyfield/)
+
+## Feed Hunting and Satellite Mapping
+ 
+- Feedhunter (http://www.feedhunter.com/)
+
 ### Miscellaneous
 - Satellite, Junk, and Flare Tracking: https://www.satflare.com/home.asp
 
