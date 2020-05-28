@@ -36,9 +36,9 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 - **About:** Satellite Communications Payload and System (https://ieeexplore.ieee.org/book/6305387)
 - **How To:** Satellite Hacking: A Guide for the Perplexed: http://www.international-relations.com/CM2012/Satellite-Hacking.pdf
 - **How To:** Satellite Network Hacking & Security Analysis by Adam Ali.Zare Hudaib (https://www.cscjournals.org/manuscript/Journals/IJCSS/Volume10/Issue1/IJCSS-1200.pdf)
-- **How To:** Satellite Tool Kit Astronautics Primer by Jerry Jon Sellers Based on Understanding Space: An Introduction to Astronautics (http://lasp.colorado.edu/~lix/class/...stroprimer.pdf)
+- **How To:** Satellite Tool Kit Astronautics Primer by Jerry Jon Sellers Based on Understanding Space: An Introduction to Astronautics (http://lasp.colorado.edu/~lix/class/asen5050/stk_files/astroprimer.pdf)
 - **How To:** NASA's Beginner's Guide to Rockets (https://www.grc.nasa.gov/www/k-12/rocket/bgmr.html)
-- **How To:** CubeSat 101: Basic Concepts and Processes for First-Time CubeSat Developers (https://www.nasa.gov/sites/default/f...at_101_508.pdf)
+- **How To:** CubeSat 101: Basic Concepts and Processes for First-Time CubeSat Developers (https://www.nasa.gov/sites/default/files/atoms/files/nasa_csli_cubesat_101_508.pdf)
 - **How To:** Space Mission Engineering: The New SMAD (http://www.sme-smad.com/)
 - **Types of Risks and Attacks:** MITIGATING CYBER SECURITY RISK IN SATELLITE GROUND SYSTEMS by Stephen F. Bichler, Maj, USAF (https://apps.dtic.mil/dtic/tr/fulltext/u2/1012754.pdf)
 - **Types of Risks and Attacks:** Attack Vectors in Orbit: The Need for IoT and Satellite Security by William J Malik, CISA (https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13692/MBS-W03-Attack-Vectors-in-Orbit-The-Need-for-IoT-and-Satellite-Security.pdf)
