@@ -23,12 +23,46 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 - Hackers Homepage on DSS signal hacking (https://hackershomepage.com/dss_hacking.htm)
 - School Amateur Radio Club Network: "a free on-line resource for anyone associated with or thinking about setting up a School Amateur Radio Club"
 
-### Tools, Videos and Projects
-- **Video:** Hacking Iridium Satellites With Iridium Toolkit by TechMinds (https://www.youtube.com/watch?v=usCJtuvXfPg)
+### Tools and Projects
 - **Mini Satellite-Antenna Rotator Mk1:** "This project is a portable device used to automatically point a directional antenna towards an orbiting satellite."(https://forum.defcon.org/node/232474)
 - **Webinar:** GNSS hacking, from satellite signals to hardware/software cybersecurity (youtube.com/watch?v=Au43CmiOO_g)
 - **Presentation at RSA Conference 2019- Attack Vectors in Orbit:** The Need for IoT and Satellite Security by William J Malik, CISA: https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13692/MBS-W03-Attack-Vectors-in-Orbit-The-Need-for-IoT-and-Satellite-Security.pdf
 - **Satellite Project:** Hackaday Satellite Projects (https://hackaday.io/list/4321-satellite-projects)
+
+### Videos
+- Hacking Iridium Satellites With Iridium Toolkit by TechMinds (https://www.youtube.com/watch?v=usCJtuvXfPg)
+- Iridium Satellite Hacking - HOPE XI 2016
+(https://www.youtube.com/watch?v=cvKaC4pNvck&t=)
+- SATCOM Terminals: Hacking by Air, Sea, and Land by Ruben Santamarta
+(https://www.youtube.com/watch?v=YeKswEamOl4&t=)
+- DEF CON 23 - Colby Moore - Spread Spectrum Satcom Hacking
+(https://www.youtube.com/watch?v=2aBXpho5b7w&t=)
+- 2012: Martin Rutishauser: Satellite Hacking: An Introduction
+(https://www.youtube.com/watch?v=xIsG8GpB67A&t=)
+- Reverse Engineering Satellite Based IP Content Distribution
+(https://www.youtube.com/watch?v=U1WyBP4lKZk&t=)
+- How to Reverse-Engineer a Satellite TV Smart Card
+(https://www.youtube.com/watch?v=tnY7UVyaFiQ&t=)
+- Reverse engineering Outernet (33c3)
+(https://www.youtube.com/watch?v=TCoSRx7DpGY&t=)
+- Reverse Engineering NOAA and ARGOS Satellite - Hot Topics - 9th September 2016
+(https://www.youtube.com/watch?v=HjBMxoHTjCk&t=)
+- Lucas Teske - Satellite Communications Reverse Engineering - H2HC 2016
+(https://www.youtube.com/watch?v=SIxRyVKlpEo&t=)
+- Spread Spectrum Satcom Hacking: Attacking The Globalstar Simplex Data Service
+(https://www.youtube.com/watch?v=1VbmHmzofmc&t=)
+- Hacking Iridium Satellites With Iridium Toolkit
+(https://www.youtube.com/watch?v=usCJtuvXfPg&t=)
+- Black Hat DC 2009 - Adam Laurie - Satellite Hacking for Fun and Profit
+(https://www.youtube.com/watch?v=PyXZX63etog&t=)
+- Stephan Gerling - Hacking Yachts Remotely via Satcom or Maritime Internet Router
+(https://www.youtube.com/watch?v=mT7dXJ_ob8k&t=)
+- Black Hat USA 2015 - Spread Spectrum Satcom Hacking Attacking The Globalstar Simplex Data Service
+(https://www.youtube.com/watch?v=arPqhHQ-R4o&t=)
+- SEC-T 2009 - Playing in a Satellite environment - Ramón Pinuaga
+(https://www.youtube.com/watch?v=Z6FjVRYyCf4&t=)
+- GPS As An Attack Vector
+(https://www.youtube.com/watch?v=Duxr1yRKRoU&t=)
 
 ### Books and White Papers
 - **About:** Fundamentals of Astrodynamics and Applications, Third Edition by David A. Vallado
@@ -43,6 +77,10 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 - **Types of Risks and Attacks:** MITIGATING CYBER SECURITY RISK IN SATELLITE GROUND SYSTEMS by Stephen F. Bichler, Maj, USAF (https://apps.dtic.mil/dtic/tr/fulltext/u2/1012754.pdf)
 - **Types of Risks and Attacks:** Attack Vectors in Orbit: The Need for IoT and Satellite Security by William J Malik, CISA (https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13692/MBS-W03-Attack-Vectors-in-Orbit-The-Need-for-IoT-and-Satellite-Security.pdf)
 - **Types of Risks and Attacks:** Cybersecurity Principles for Space Systems by Gregory Falco (https://2ea998fc-9f95-482a-87f8-dd57460966a8.filesusr.com/ugd/e741d3_daa22cd1e5234b8f9139fa9c7406be29.pdf)
+
+### Hack-A-Sat 2020 Writeups
+- Recap of the team Exodus Orbitals Alliance (192 out of 1278 teams)
+https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 
 ### Miscellaneous
 - Satellite, Junk, and Flare Tracking: https://www.satflare.com/home.asp
