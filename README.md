@@ -21,7 +21,8 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 ### Web Sites
 - Satellite Orbits, Models, Methods, Applications, Oliver Montenbruck, Eberhard Gill (https://github.com/orbitalindex/awesome-space)
 - Hackers Homepage on DSS signal hacking (https://hackershomepage.com/dss_hacking.htm)
-- School Amateur Radio Club Network: "a free on-line resource for anyone associated with or thinking about setting up a School Amateur Radio Club"
+- School Amateur Radio Club Network: "a free on-line resource for anyone associated with or thinking about setting up a School Amateur Radio Club"(https://sarcnet.org/)
+- Satellite Projects (GOES Satellite Hunt and other), Lucas Teske (https://lucasteske.dev/satcom-projects/satellite-projects)
 
 ### Tools and Projects
 - **Mini Satellite-Antenna Rotator Mk1:** "This project is a portable device used to automatically point a directional antenna towards an orbiting satellite."(https://forum.defcon.org/node/232474)
