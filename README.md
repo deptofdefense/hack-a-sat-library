@@ -10,12 +10,13 @@ The democratization of space has opened up a new frontier for exploration and in
 
 The United States Air Force, in conjunction with the Defense Digital Service, presents this year’s Space Security Challenge, Hack-A-Sat. This challenge asks hackers from around the world to focus their skills and creativity on solving cybersecurity challenges on space systems... THE QUESTION IS, HOW?
 
-## Resources
-### ARTICLES
-- Hackers could shut down satellites – or turn them into weapons by William Akoto: https://theconversation.com/hackers-could-shut-down-satellites-or-turn-them-into-weapons-130932
+## RESOURCES
+### Articles and Op-Eds
+- Hackers could shut down satellites – or turn them into weapons by William Akoto (https://theconversation.com/hackers-could-shut-down-satellites-or-turn-them-into-weapons-130932)
 - Want to Hack a Satellite? It Might Be Easier Than You Think by Max Eddy with video presentation (https://forum.defcon.org/node/232085)
 - It's Surprisingly Simple to Hack a Satellite by Lorenzo Franceschi-Bicchierai about Iridium hacking (https://forum.defcon.org/node/232079)
-- Hacking Satellites Is Surprisingly Simple By Ryan Whitwam: https://www.extremetech.com/extreme/287284-hacking-satellites-is-probably-easier-than-you-think
+- Hacking Satellites Is Surprisingly Simple By Ryan Whitwam (https://www.extremetech.com/extreme/287284-hacking-satellites-is-probably-easier-than-you-think)
+- Our satellites are prime targets for a cyberattack. And things could get worse. by Gergory Falco (https://www.washingtonpost.com/opinions/our-satellites-are-prime-targets-for-a-cyberattack-and-things-could-get-worse/2019/05/07/31c85438-7041-11e9-8be0-ca575670e91c_story.html)
 
 ### Web Sites
 - Satellite Orbits, Models, Methods, Applications, Oliver Montenbruck, Eberhard Gill (https://github.com/orbitalindex/awesome-space)
