@@ -82,6 +82,10 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 ### Hack-A-Sat 2020 Writeups
 - Recap of the team Exodus Orbitals Alliance (192 out of 1278 teams)
 https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
+- Where's the Sat? [HackaSat] [Writeup] by Philippe Delteil (https://medium.com/@pdelteil/wheres-the-sat-hack-a-sat-writeup-9a523634963b)
+- Seeing Stars [HackASat] [Writeup] by Philippe Delteil (https://medium.com/@pdelteil/seeing-stars-hackasat-writeup-372e7859ca97)
+- Track The Sat - Ground Segment by Keramas (https://keramas.github.io/2020/05/24/HackASat-CTF.html)
+- 56k Flex Magic - Communication Systems by Keramas (https://keramas.github.io/2020/05/25/HackASat-Part2.html)
 
 ## Helpful programming libraries
  
