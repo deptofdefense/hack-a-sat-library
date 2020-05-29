@@ -26,7 +26,7 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 
 ### Tools and Projects
 - **Mini Satellite-Antenna Rotator Mk1:** "This project is a portable device used to automatically point a directional antenna towards an orbiting satellite."(https://forum.defcon.org/node/232474)
-- **Webinar:** GNSS hacking, from satellite signals to hardware/software cybersecurity (youtube.com/watch?v=Au43CmiOO_g)
+- **Webinar:** GNSS hacking, from satellite signals to hardware/software cybersecurity (https://www.youtube.com/watch?v=Au43CmiOO_g)
 - **Presentation at RSA Conference 2019- Attack Vectors in Orbit:** The Need for IoT and Satellite Security by William J Malik, CISA: https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13692/MBS-W03-Attack-Vectors-in-Orbit-The-Need-for-IoT-and-Satellite-Security.pdf
 - **Satellite Project:** Hackaday Satellite Projects (https://hackaday.io/list/4321-satellite-projects)
 
