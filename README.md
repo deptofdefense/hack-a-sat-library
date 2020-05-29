@@ -20,7 +20,7 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 - Hacking Satellites Is Surprisingly Simple By Ryan Whitwam (https://www.extremetech.com/extreme/287284-hacking-satellites-is-probably-easier-than-you-think)
 - Our satellites are prime targets for a cyberattack. And things could get worse. by Gergory Falco (https://www.washingtonpost.com/opinions/our-satellites-are-prime-targets-for-a-cyberattack-and-things-could-get-worse/2019/05/07/31c85438-7041-11e9-8be0-ca575670e91c_story.html)
 
-### Web Sites #web-sites
+### Web Sites
 - Satellite Orbits, Models, Methods, Applications, Oliver Montenbruck, Eberhard Gill (https://github.com/orbitalindex/awesome-space)
 - Hackers Homepage on DSS signal hacking (https://hackershomepage.com/dss_hacking.htm)
 - School Amateur Radio Club Network: "a free on-line resource for anyone associated with or thinking about setting up a School Amateur Radio Club"(https://sarcnet.org/)
