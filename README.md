@@ -4,10 +4,9 @@
 
 A collection of Resources for budding SAT hackers (Satellites, not the test¯\_(ツ)_/¯). *Note: This is an evolving resource, so please [contribute](./HASlibrary-contribute-instrxns.md) with a pull request*
 
-Jump To: [Web sites](#web-sites)
+**Jump To**: [Web sites](#web-sites) | Articles and Op-Eds (#articles-and-op-eds) | Tools and Projects (#tools-and-projects) | Videos (#videos) | Books and White Papers (#books-and-white-papers) | 2020 Write-Ups (#hack-a-sat-2020-writeups) | Programming Libraries (#programming-libraries) | Miscellaneous (#miscellaneous) | Contacts (#contacts)
 
 ## BACKGROUND
- 
 The democratization of space has opened up a new frontier for exploration and innovation.  But with this opportunity, new cybersecurity vulnerabilities are also being created. One human can design, build and launch a satellite, adhering to very few standards and security protocols. So how can we achieve safe, reliable and trustworthy operations to truly realize the promise of space?  ...BY HACKING A SATELLITE.
 
 The United States Air Force, in conjunction with the Defense Digital Service, presents this year’s Space Security Challenge, Hack-A-Sat. This challenge asks hackers from around the world to focus their skills and creativity on solving cybersecurity challenges on space systems... THE QUESTION IS, HOW?
@@ -89,8 +88,7 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 - Track The Sat - Ground Segment by Keramas (https://keramas.github.io/2020/05/24/HackASat-CTF.html)
 - 56k Flex Magic - Communication Systems by Keramas (https://keramas.github.io/2020/05/25/HackASat-Part2.html)
 
-### Programming libraries
- 
+### Programming Libraries
 - CCSDSPy: Provides an IO Interface for reading CCSDS data in Python. The CCSDS format is used for many NASA and ESA missions for low-level telemetry (https://ccsdspy.readthedocs.io/en/latest/)
 - Satpy: Python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats (https://github.com/pytroll/satpy)
 - SGP4: Python version of the SGP4 satellite position library (https://github.com/brandon-rhodes/python-sgp4)
