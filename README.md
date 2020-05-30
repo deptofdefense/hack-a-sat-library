@@ -4,7 +4,7 @@
 
 A collection of Resources for budding SAT hackers (Satellites, not the test¯\_(ツ)_/¯). *Note: This is an evolving resource, so please [contribute](./HASlibrary-contribute-instrxns.md) with a pull request*
 
-**Jump To**: [Web sites](#web-sites) | Articles and Op-Eds (#articles-and-op-eds) | Tools and Projects (#tools-and-projects) | Videos (#videos) | Books and White Papers (#books-and-white-papers) | 2020 Write-Ups (#hack-a-sat-2020-writeups) | Programming Libraries (#programming-libraries) | Miscellaneous (#miscellaneous) | Contacts (#contacts)
+**Jump To**: [Web sites](#web-sites) | Articles and Op-Eds(#articles-and-op-eds) | Tools and Projects (#tools-and-projects) | Videos (#videos) | Books and White Papers (#books-and-white-papers) | 2020 Write-Ups (#hack-a-sat-2020-writeups) | Programming Libraries (#programming-libraries) | Miscellaneous (#miscellaneous) | Contacts (#contacts)
 
 ## BACKGROUND
 The democratization of space has opened up a new frontier for exploration and innovation.  But with this opportunity, new cybersecurity vulnerabilities are also being created. One human can design, build and launch a satellite, adhering to very few standards and security protocols. So how can we achieve safe, reliable and trustworthy operations to truly realize the promise of space?  ...BY HACKING A SATELLITE.
