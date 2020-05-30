@@ -89,7 +89,7 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 - Track The Sat - Ground Segment by Keramas (https://keramas.github.io/2020/05/24/HackASat-CTF.html)
 - 56k Flex Magic - Communication Systems by Keramas (https://keramas.github.io/2020/05/25/HackASat-Part2.html)
 
-## Helpful programming libraries
+### Programming libraries
  
 - CCSDSPy: Provides an IO Interface for reading CCSDS data in Python. The CCSDS format is used for many NASA and ESA missions for low-level telemetry (https://ccsdspy.readthedocs.io/en/latest/)
 - Satpy: Python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats (https://github.com/pytroll/satpy)
@@ -97,12 +97,9 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 - Poliastro: Collection of Python functions useful in Astrodynamics and Orbital Mechanics, focusing on interplanetary applications. It provides a simple and intuitive API and handles physical quantities with units (https://docs.poliastro.space/en/stable/)
 - Skyfield: Computes positions for the stars, planets, and satellites in orbit around the Earth (https://rhodesmill.org/skyfield/)
 
-## Feed Hunting and Satellite Mapping
- 
-- Feedhunter (http://www.feedhunter.com/)
-
 ### Miscellaneous
-- Satellite, Junk, and Flare Tracking: https://www.satflare.com/home.asp
+- Satellite, Junk, and Flare Tracking (https://www.satflare.com/home.asp)
+- Feed Hunting and Satellite Mapping (http://www.feedhunter.com/)
 
 ## CONTACTS
 ### Space and Satellite Security POCs
