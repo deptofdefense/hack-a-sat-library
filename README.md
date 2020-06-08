@@ -94,6 +94,10 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 - Track The Sat - Ground Segment by Keramas (https://keramas.github.io/2020/05/24/HackASat-CTF.html)
 - 56k Flex Magic - Communication Systems by Keramas (https://keramas.github.io/2020/05/25/HackASat-Part2.html)
 - I Like to Watch – Hack-A-Sat CTF Challenge Solution [Writeup] by Dawid Golunski (https://pentest.co.uk/insights/i-like-to-watch-hack-a-sat-challenge/)
+- Hack-a-Sat CTF Writeup: My 0x20 (aka ”Myspace”) [Writeup] by OH HAI THERE
+(https://ohaithe.re/post/619784043448418304/hack-a-sat-ctf-writeup-my-0x20-aka-myspace)
+- Hack-A-Sat 2020: Sun? On my Sat? [Writeup] by OH starfleetcadet75
+(https://starfleetcadet75.github.io/writeups/2020/06/05/sun-on-my-sat.html)
 
 [<<<Back to Top](#hack-a-sat-resource-library)
 
