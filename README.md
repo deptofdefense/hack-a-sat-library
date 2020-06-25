@@ -2,7 +2,7 @@
 
 # HACK-A-SAT RESOURCE LIBRARY
 
-A collection of Resources for budding SAT hackers (Satellites, not the test¯\_(ツ)_/¯). *Note: This is an evolving resource, so please [contribute](./HASlibrary-contribute-instrxns.md) with a pull request*
+A collection of Resources for budding SAT hackers (Satellites, not the test¯\\\_(ツ)\_/¯). *Note: This is an evolving resource, so please [contribute](./HASlibrary-contribute-instrxns.md) with a pull request*
 
 **Jump To**: [Web sites](#web-sites) | [Articles and Op-Eds](#articles-and-op-eds) | [Tools and Projects](#tools-and-projects) | [Videos](#videos) | [Books and White Papers](#books-and-white-papers) | [2020 Write-Ups](#hack-a-sat-2020-writeups) | [Programming Libraries](#programming-libraries) | [Miscellaneous](#miscellaneous) | [Contacts](#contacts)
 
