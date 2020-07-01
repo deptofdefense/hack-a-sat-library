@@ -99,6 +99,7 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 (https://ohaithe.re/post/619784043448418304/hack-a-sat-ctf-writeup-my-0x20-aka-myspace)
 - Hack-A-Sat 2020: Sun? On my Sat? [Writeup] by OH starfleetcadet75
 (https://starfleetcadet75.github.io/writeups/2020/06/05/sun-on-my-sat.html)
+- Vaporsec CTF team from DC 858/619 summarizes the event and lessons learned (https://www.facebook.com/DC858/videos/281579856584929/) 
 
 [<<<Back to Top](#hack-a-sat-resource-library)
 
