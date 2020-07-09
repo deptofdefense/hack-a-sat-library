@@ -121,6 +121,7 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 ### Space and Satellite Security POCs
 - [Adam Ali Zare Hudaib](mailto:adamhudaib@gmail.com): Author of Satellite Network Hacking & Security Analysis
 - [William Akoto](mailto:william@willakoto.com): Author of Hackers could shut down satellites — or turn them into weapons
+- [LT COL Stephen Bichler](mailto:stephen.bichler@us.af.mil): Author of  MITIGATING CYBER SECURITY RISK IN SATELLITE GROUND SYSTEMS
 - [Gregory Falco](mailto:falco@stanford.edu): Author of Cybersecurity Principles for Space Systems
 
 ### Defense Digital Service Library Custodians
