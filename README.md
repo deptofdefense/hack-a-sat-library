@@ -84,6 +84,7 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 - **Types of Risks and Attacks:** Attack Vectors in Orbit: The Need for IoT and Satellite Security by William J Malik, CISA (https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13692/MBS-W03-Attack-Vectors-in-Orbit-The-Need-for-IoT-and-Satellite-Security.pdf)
 - **Types of Risks and Attacks:** Cybersecurity Principles for Space Systems by Gregory Falco (https://2ea998fc-9f95-482a-87f8-dd57460966a8.filesusr.com/ugd/e741d3_daa22cd1e5234b8f9139fa9c7406be29.pdf)
 - **Types of Risks and Attacks:** Electronic and Cyber Warfare in Outer Space by Rajeswari Pillai Rajagopalan (https://www.unidir.org/files/publications/pdfs/electronic-and-cyber-warfare-in-outer-space-en-784.pdf)
+
 [<<<Back to Top](#hack-a-sat-resource-library)
 
 ### Hack-A-Sat 2020 Writeups
