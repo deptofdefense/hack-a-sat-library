@@ -12,6 +12,11 @@ The democratization of space has opened up a new frontier for exploration and in
 The United States Air Force, in conjunction with the Defense Digital Service, presents this year’s Space Security Challenge, Hack-A-Sat. This challenge asks hackers from around the world to focus their skills and creativity on solving cybersecurity challenges on space systems... THE QUESTION IS, HOW?
 
 ## RESOURCES
+
+### Hack A Sat Challenges 
+
+- [Hack A Sat Qualifier Challenges](https://github.com/deptofdefense/HAS-Qualifier-Challenges) : Public version of the qualifier challenges from HAS 2020
+
 ### Articles and Op-Eds
 - Hackers could shut down satellites – or turn them into weapons by William Akoto (https://theconversation.com/hackers-could-shut-down-satellites-or-turn-them-into-weapons-130932)
 - Want to Hack a Satellite? It Might Be Easier Than You Think by Max Eddy with video presentation (https://forum.defcon.org/node/232085)
