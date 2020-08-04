@@ -139,7 +139,7 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 - Daniel Allen (dan@dds.mil)
 - Nick Ashworth (nick.ashworth@dds.mil)
 
-## **Also check out our [Aviation Hacking Resource Library](https://github.com/deptofdefense/hack-aviation-library/blob/master/README.md)**
+## *Also check out our [Aviation Hacking Resource Library](https://github.com/deptofdefense/hack-aviation-library/blob/master/README.md)*
 
 [<<<Back to Top](#hack-a-sat-resource-library)
 
