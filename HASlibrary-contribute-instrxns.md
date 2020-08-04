@@ -14,7 +14,7 @@ Defense Digital Service welcomes contributions to the How to Hack A SAT Library 
 - Remove trailing whitespaces.
 - If there is a resource that warrants a new category, please add to the first category and note: NEW CATEGORY.
 
-Thank you for contributing to this resource to for the Space Security Hack-A-SAT Challenge.
+Thank you for contributing to this resource for the Space Security Hack-A-SAT Challenge.
 
 Return to the [SPACE SECURITY CHALLENGE 2020 HACK-A-SAT LIBRARY](./README.md)
 
