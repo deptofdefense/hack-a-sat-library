@@ -13,6 +13,9 @@ The United States Air Force, in conjunction with the Defense Digital Service, pr
 
 ## RESOURCES
 
+### Hack A Sat Workshops
+We are bringing a series of interactive workshops to DEF CON in complete Safemode via Twitch. Check out our vibrant, web-based virtual reality environment to access the workshops at [dds-virtual.com](https://dds-virtual.com/), otherwise, see the [github repo](https://github.com/deptofdefense/dds-at-DEFCON/blob/master/README.md) for the deets on game play for each of the work shops!
+
 ### Hack A Sat Challenges 
 
 - [Hack A Sat Qualifier Challenges](https://github.com/deptofdefense/HAS-Qualifier-Challenges) : Public version of the qualifier challenges from HAS 2020
