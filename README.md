@@ -110,6 +110,7 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 (https://starfleetcadet75.github.io/writeups/2020/06/05/sun-on-my-sat.html)
 - Vaporsec CTF team from DC 858/619 summarizes the event and lessons learned (https://www.facebook.com/DC858/videos/281579856584929/) 
 - LaunchLink - Hack-A-Sat Quals 2020 [Writeup] by erfur (https://erfur.github.io/LaunchLink_Hackasat/)
+- Leaky Crypto - Hack-A-Sat Writeup: [Writeup] by ADDVulcan (https://github.com/ADDVulcan/ADDVulcan/tree/master/Payload%20Modules/Leaky%20Crypto) 
 
 [<<<Back to Top](#hack-a-sat-resource-library)
 
