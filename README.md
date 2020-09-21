@@ -38,6 +38,7 @@ We are bringing a series of interactive workshops to DEF CON in complete Safemod
 - **Webinar:** GNSS hacking, from satellite signals to hardware/software cybersecurity (https://www.youtube.com/watch?v=Au43CmiOO_g)
 - **Presentation at RSA Conference 2019- Attack Vectors in Orbit:** The Need for IoT and Satellite Security by William J Malik, CISA: https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13692/MBS-W03-Attack-Vectors-in-Orbit-The-Need-for-IoT-and-Satellite-Security.pdf
 - **Satellite Project:** Hackaday Satellite Projects (https://hackaday.io/list/4321-satellite-projects)
+- **Tools and infrastructure:** QEMU+GDB to emulate a satellite, CCSDS using scapy, infra scripts. Solar Wine (https://github.com/solar-wine/tools-for-hack-a-sat-2020)
 
 [<<<Back to Top](#hack-a-sat-resource-library)
 
@@ -111,6 +112,7 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 - Vaporsec CTF team from DC 858/619 summarizes the event and lessons learned (https://www.facebook.com/DC858/videos/281579856584929/) 
 - LaunchLink - Hack-A-Sat Quals 2020 [Writeup] by erfur (https://erfur.github.io/LaunchLink_Hackasat/)
 - Leaky Crypto - Hack-A-Sat Writeup: [Writeup] by ADDVulcan (https://github.com/ADDVulcan/ADDVulcan/tree/master/Payload%20Modules/Leaky%20Crypto) 
+- Qualification and final write-ups [Writeup] by Solar Wine (https://github.com/solar-wine/writeups/)
 
 [<<<Back to Top](#hack-a-sat-resource-library)
 
