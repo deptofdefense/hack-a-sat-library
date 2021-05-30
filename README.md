@@ -88,6 +88,8 @@ We are bringing a series of interactive workshops to DEF CON in complete Safemod
 - **How To:** Satellite Tool Kit Astronautics Primer by Jerry Jon Sellers Based on Understanding Space: An Introduction to Astronautics (http://lasp.colorado.edu/~lix/class/asen5050/stk_files/astroprimer.pdf)
 - **How To:** NASA's Beginner's Guide to Rockets (https://www.grc.nasa.gov/www/k-12/rocket/bgmr.html)
 - **How To:** CubeSat 101: Basic Concepts and Processes for First-Time CubeSat Developers (https://www.nasa.gov/sites/default/files/atoms/files/nasa_csli_cubesat_101_508.pdf)
+- **How To:** DIY Communications and Control for Amateur Space : Talking and Listening to Your Satellite by Sandy Antunes (https://www.worldcat.org/title/diy-comms-and-control-for-amateur-space-talking-and-listening-to-your-satellite/oclc/910553792)
+- **How To:** Surviving Orbit The DIY way : Testing the Limits Your Satellite Can and Must Match (https://www.worldcat.org/title/surviving-orbit-the-diy-way-testing-the-limits-your-satellite-can-and-must-match/oclc/826866872)
 - **How To:** Space Mission Engineering: The New SMAD (http://www.sme-smad.com/)
 - **Types of Risks and Attacks:** MITIGATING CYBER SECURITY RISK IN SATELLITE GROUND SYSTEMS by Stephen F. Bichler, Maj, USAF (https://apps.dtic.mil/dtic/tr/fulltext/u2/1012754.pdf)
 - **Types of Risks and Attacks:** Attack Vectors in Orbit: The Need for IoT and Satellite Security by William J Malik, CISA (https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13692/MBS-W03-Attack-Vectors-in-Orbit-The-Need-for-IoT-and-Satellite-Security.pdf)
