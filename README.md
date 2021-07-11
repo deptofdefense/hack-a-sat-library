@@ -125,6 +125,7 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 - Poliastro: Collection of Python functions useful in Astrodynamics and Orbital Mechanics, focusing on interplanetary applications. It provides a simple and intuitive API and handles physical quantities with units (https://docs.poliastro.space/en/stable/)
 - Skyfield: Computes positions for the stars, planets, and satellites in orbit around the Earth (https://rhodesmill.org/skyfield/)
 - satellite.js: A library to make satellite propagation via TLEs possible in the web. Provides the functions necessary for SGP4/SDP4 calculations, as callable javascript. Also provides functions for coordinate transforms. (https://github.com/shashwatak/satellite-js)
+- Cesium-js: Cesium is the open platform for software applications designed to unleash the power of 3D data. (https://cesium.com/)
 
 [<<<Back to Top](#hack-a-sat-resource-library)
 
