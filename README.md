@@ -118,6 +118,13 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 
 [<<<Back to Top](#hack-a-sat-resource-library)
 
+### Standards
+- CCSDS: The Consultative Committee for Space Data Systems (CCSDS) is a multi-national forum for the development of communications & data systems standards for spaceflight. (https://public.ccsds.org/default.aspx)
+- OGC: Open Geospatial Consortium is a worldwide community committed to improving access to geospatial, or location information. (https://www.ogc.org/)
+- OMG Space DTF: The OMG Space Domain Task Force (Space DTF) was established to answer a call by industry professionals for greater interoperability as well as a reduction in costs, (https://www.omg.org/space/)
+
+[<<<Back to Top](#hack-a-sat-resource-library)
+
 ### Programming Libraries
 - CCSDSPy: Provides an IO Interface for reading CCSDS data in Python. The CCSDS format is used for many NASA and ESA missions for low-level telemetry (https://ccsdspy.readthedocs.io/en/latest/)
 - Satpy: Python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats (https://github.com/pytroll/satpy)
