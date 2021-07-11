@@ -127,6 +127,7 @@ https://blog.exodusorbitals.com/2020/05/26/hack-a-sat-2020-after-action-report/
 - satellite.js: A library to make satellite propagation via TLEs possible in the web. Provides the functions necessary for SGP4/SDP4 calculations, as callable javascript. Also provides functions for coordinate transforms. (https://github.com/shashwatak/satellite-js)
 - Cesium-js: Cesium is the open platform for software applications designed to unleash the power of 3D data. (https://cesium.com/)
 - SpacePython: Satellite Operations Language Metamodel. (https://www.omg.org/spec/SOLM/About-SOLM/)
+- OpenTsiolkovsky: OpenTsiolkovsky is a free , specific usage rocket flight simulator that allow you calcurate rocket trajectry. (https://github.com/istellartech/OpenTsiolkovsky)
 
 [<<<Back to Top](#hack-a-sat-resource-library)
 
