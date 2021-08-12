@@ -21,6 +21,9 @@ We are bringing a series of interactive workshops to DEF CON in complete Safemod
 - [Hack A Sat Qualifier Challenges](https://github.com/deptofdefense/HAS-Qualifier-Challenges) : Public version of the qualifier challenges from HAS 2020
 
 ### Articles and Op-Eds
+- Space Development Agency to launch five satellites aboard SpaceX rideshare by Sandra Erwin (https://spacenews.com/space-development-agency-to-launch-five-satellites-aboard-spacex-rideshare/)
+- U.S. Army selects Iridium to develop payload for low Earth orbit satellite navigation system by Sandra Erwin (https://spacenews.com/u-s-army-selects-iridium-to-develop-payload-for-low-earth-orbit-satellite-navigation-system/)
+- Op-ed | Assessing new launch vehicles on the market by Phillip Bracken (https://spacenews.com/op-ed-assessing-new-launch-vehicles-on-the-market/)
 - Hackers could shut down satellites – or turn them into weapons by William Akoto (https://theconversation.com/hackers-could-shut-down-satellites-or-turn-them-into-weapons-130932)
 - Want to Hack a Satellite? It Might Be Easier Than You Think by Max Eddy with video presentation (https://forum.defcon.org/node/232085)
 - It's Surprisingly Simple to Hack a Satellite by Lorenzo Franceschi-Bicchierai about Iridium hacking (https://forum.defcon.org/node/232079)
